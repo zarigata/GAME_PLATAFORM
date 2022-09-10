@@ -172,6 +172,8 @@
     <None Include="..\..\Plataform.uproject"/>
     <None Include="..\..\Source\Plataform.Target.cs"/>
     <None Include="..\..\Source\PlataformEditor.Target.cs"/>
+    <None Include="..\..\.gitattributes"/>
+    <None Include="..\..\.gitignore"/>
     <None Include="..\..\.ignore"/>
     <None Include="..\..\Link to Source Assets.txt"/>
     <None Include="..\..\Plataform.code-workspace"/>

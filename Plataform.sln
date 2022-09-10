@@ -24,14 +24,11 @@ Global
 		Development|Win64 = Development|Win64
 		Shipping|Win64 = Shipping|Win64
 	EndGlobalSection
-	# UnrealVS Section
-	GlobalSection(ddbf523f-7eb6-4887-bd51-85a714ff87eb) = preSolution
-		AvailablePlatforms=Win64
-	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{209C3046-29E7-357D-9873-A92B4BD3B990}.DebugGame Editor|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win64
 		{209C3046-29E7-357D-9873-A92B4BD3B990}.DebugGame|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win64
 		{209C3046-29E7-357D-9873-A92B4BD3B990}.Development Editor|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win64
+		{209C3046-29E7-357D-9873-A92B4BD3B990}.Development Editor|Win64.Build.0 = BuiltWithUnrealBuildTool|Win64
 		{209C3046-29E7-357D-9873-A92B4BD3B990}.Development|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win64
 		{209C3046-29E7-357D-9873-A92B4BD3B990}.Shipping|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win64
 		{55512641-7231-321D-8036-B74DCD415B60}.DebugGame Editor|Win64.ActiveCfg = DebugGame_Editor|x64
@@ -39,7 +36,6 @@ Global
 		{55512641-7231-321D-8036-B74DCD415B60}.DebugGame|Win64.ActiveCfg = DebugGame|x64
 		{55512641-7231-321D-8036-B74DCD415B60}.DebugGame|Win64.Build.0 = DebugGame|x64
 		{55512641-7231-321D-8036-B74DCD415B60}.Development Editor|Win64.ActiveCfg = Development_Editor|x64
-		{55512641-7231-321D-8036-B74DCD415B60}.Development Editor|Win64.Build.0 = Development_Editor|x64
 		{55512641-7231-321D-8036-B74DCD415B60}.Development|Win64.ActiveCfg = Development|x64
 		{55512641-7231-321D-8036-B74DCD415B60}.Development|Win64.Build.0 = Development|x64
 		{55512641-7231-321D-8036-B74DCD415B60}.Shipping|Win64.ActiveCfg = Shipping|x64
@@ -51,5 +47,11 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{209C3046-29E7-357D-9873-A92B4BD3B990} = {233774A8-CC9D-3FA9-86D1-90573E92B704}
 		{55512641-7231-321D-8036-B74DCD415B60} = {DE1F8B53-6C02-3C13-9101-A7C8D96F3FF6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E910A757-DFCF-4708-9460-FA5FBDBF4F37}
+	EndGlobalSection
+	GlobalSection(ddbf523f-7eb6-4887-bd51-85a714ff87eb) = preSolution
+		AvailablePlatforms = Win64
 	EndGlobalSection
 EndGlobal
