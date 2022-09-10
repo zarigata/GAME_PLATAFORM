@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"name": "PlataformEditor Editor Win64 Development (Plataform)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "H:\\UNREALL GAMES\\PLATAFORMA\\Plataform\\.vscode\\compileCommands_Plataform.json"
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "H:\\UNREALL GAMES\\PLATAFORMA\\Plataform\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Plataform",
+			"Path": "H:\\UNREALL GAMES\\PLATAFORMA\\Plataform\\Source\\Plataform.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PlataformEditor",
+			"Path": "H:\\UNREALL GAMES\\PLATAFORMA\\Plataform\\Source\\PlataformEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

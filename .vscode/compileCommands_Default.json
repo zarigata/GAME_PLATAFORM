@@ -1,0 +1,27 @@
+[
+	{
+		"file": "H:\\UNREALL GAMES\\PLATAFORMA\\Plataform\\Source\\Plataform\\Moving_Plataform.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\UNREALL GAMES\\PLATAFORMA\\Plataform\\.vscode\\compileCommands_Default\\Plataform.205.rsp\"",
+		"directory": "E:\\Unreal\\ENGINE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "H:\\UNREALL GAMES\\PLATAFORMA\\Plataform\\Source\\Plataform\\Moving_Plataform.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\UNREALL GAMES\\PLATAFORMA\\Plataform\\.vscode\\compileCommands_Default\\Plataform.205.rsp\"",
+		"directory": "E:\\Unreal\\ENGINE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "H:\\UNREALL GAMES\\PLATAFORMA\\Plataform\\Source\\Plataform\\Plataform.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\UNREALL GAMES\\PLATAFORMA\\Plataform\\.vscode\\compileCommands_Default\\Plataform.205.rsp\"",
+		"directory": "E:\\Unreal\\ENGINE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "H:\\UNREALL GAMES\\PLATAFORMA\\Plataform\\Source\\Plataform\\Plataform.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\UNREALL GAMES\\PLATAFORMA\\Plataform\\.vscode\\compileCommands_Default\\Plataform.205.rsp\"",
+		"directory": "E:\\Unreal\\ENGINE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "H:\\UNREALL GAMES\\PLATAFORMA\\Plataform\\Source\\Plataform\\Plataform.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\UNREALL GAMES\\PLATAFORMA\\Plataform\\.vscode\\compileCommands_Default\\Plataform.205.rsp\"",
+		"directory": "E:\\Unreal\\ENGINE\\UE_5.0\\Engine\\Source"
+	}
+]

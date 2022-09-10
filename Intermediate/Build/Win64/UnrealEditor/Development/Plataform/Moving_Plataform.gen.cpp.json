@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\unreall games\\plataforma\\plataform\\intermediate\\build\\win64\\unrealeditor\\inc\\plataform\\moving_plataform.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\unreall games\\plataforma\\plataform\\intermediate\\build\\win64\\plataformeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "h:\\unreall games\\plataforma\\plataform\\intermediate\\build\\win64\\unrealeditor\\development\\plataform\\definitions.plataform.h",
+            "h:\\unreall games\\plataforma\\plataform\\source\\plataform\\moving_plataform.h",
+            "h:\\unreall games\\plataforma\\plataform\\intermediate\\build\\win64\\unrealeditor\\inc\\plataform\\moving_plataform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

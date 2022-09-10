@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Plataform.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Plataform.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PlataformEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.ignore" />
+    <None Include="..\..\Link to Source Assets.txt" />
+    <None Include="..\..\Plataform.code-workspace" />
+    <None Include="..\..\SCK_Casual01.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\Plataform">
+      <UniqueIdentifier>{04708D98-5BDC-33C5-924C-AC22B9900E6B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Plataform\Moving_Plataform.cpp">
+      <Filter>Source\Plataform</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Plataform\Moving_Plataform.h">
+      <Filter>Source\Plataform</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Plataform\Plataform.Build.cs">
+      <Filter>Source\Plataform</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Plataform\Plataform.cpp">
+      <Filter>Source\Plataform</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Plataform\Plataform.h">
+      <Filter>Source\Plataform</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
